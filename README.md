@@ -1,0 +1,1 @@
+# Convers-o-de-voz-para-texto-com-whisper-e-chat-GPT
